@@ -9,6 +9,5 @@ The main problem I think was the time. As we are not using Bootstrap, all the co
 # Technologies i have used :sunglasses:
 1. HTML
 2. CSS
-3. ReactJS
-4. ExpressJS
-5. NodeJS
+3. ExpressJS
+4. NodeJS
